@@ -1,0 +1,6 @@
+{
+  "name": "galactic-shrine-gsid",
+  "version-string": "1.0.0",
+  "description": "Système d'identifiants Galactic-Shrine de 256 bits pour C++",
+  "license": "MPL-2.0"
+}
